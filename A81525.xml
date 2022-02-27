@@ -1,0 +1,199 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Discovery made by his Highnesse the Lord Protector, to the Lord Mayor, aldermen, and common-councell of the City of London, on Friday, March the 12. 1657. Concerning the new attempts and designs of Charles Stewart and his party, both at home and abroad, to imbroile this nation againe in a new war, and to imbrew it in blood. To which purpose he had imployed the Lord of Ormond, who had three weeks bin in this city to promote the design by incouraging and ingaging all he could in and about the city. And that in order to this invasion he had quartered eight thousand men in Flanders neere the water side, and had hired two &amp; twenty ships to transport them into England, together with the setling of the militia of London in the hands of pious and faithfull men, who may carry on the work with alacrity and discretion, and be iu [sic] a condition to suppresse tumults and insurrections.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1658</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A81525</idno>
+            <idno type="STC">Wing D1633</idno>
+            <idno type="STC">Thomason E1644_2</idno>
+            <idno type="STC">ESTC R209079</idno>
+            <idno type="EEBO-CITATION">99867983</idno>
+            <idno type="PROQUEST">99867983</idno>
+            <idno type="VID">170202</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A81525)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 170202)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 207:E1644[2])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Discovery made by his Highnesse the Lord Protector, to the Lord Mayor, aldermen, and common-councell of the City of London, on Friday, March the 12. 1657. Concerning the new attempts and designs of Charles Stewart and his party, both at home and abroad, to imbroile this nation againe in a new war, and to imbrew it in blood. To which purpose he had imployed the Lord of Ormond, who had three weeks bin in this city to promote the design by incouraging and ingaging all he could in and about the city. And that in order to this invasion he had quartered eight thousand men in Flanders neere the water side, and had hired two &amp; twenty ships to transport them into England, together with the setling of the militia of London in the hands of pious and faithfull men, who may carry on the work with alacrity and discretion, and be iu [sic] a condition to suppresse tumults and insurrections.</title>
+               </titleStmt>
+               <extent>[2], 12 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Tho. Vere, and Will. Gilbertson.,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>[1658]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place and date of publication from Wing.</note>
+                  <note>Annotation on Thomason copy: "march. 24 1657".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  II, --  King of England, 1630-1685 --  Early works to 1800.</term>
+               <term>Cromwell, Oliver, 1599-1658 --  Early works to 1800.</term>
+               <term>Ormonde, James Butler, --  Duke of, 1610-1688 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660.</term>
+               <term>Great Britain --  Politics and government --  1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-04</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-05</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-05</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:170202:1" rendition="simple:additions"/>
+            <p>A DISCOVERY Made by his Highneſſe the Lord PROTECTOR, to the Lord Mayor, Aldermen, and Common-Councell of the City of <hi>London,</hi> on Friday, March the 12. 1657.</p>
+            <p>Concerning the new Attempts and deſigns of <hi>Charles Stewart</hi> and his party both at home and abroad, to imbroile this Nation againe in a new War, and to imbrew it in blood.</p>
+            <p>To which purpoſe he had imployed the Lord of <hi>Ormond,</hi> who had three weeks bin in this City to promote the deſign by incouraging and ingaging all he could in and about the CITY.</p>
+            <p>And that in order to this Invaſion he had quarte<g ref="char:EOLhyphen"/>red eight thouſand men in <hi>Flanders</hi> neere the water ſide, and had hired two &amp; twenty ſhips to tranſport them into <hi>England,</hi>
+            </p>
+            <p>Together with the ſetling of the Militia of <hi>Lon<g ref="char:EOLhyphen"/>don</hi> in the hands of pious and faithfull men, who may carry on the work with alacri<g ref="char:EOLhyphen"/>ty and diſcretion, and be in a condi<g ref="char:EOLhyphen"/>tion to ſuppreſſe Tumults and Inſurrections.</p>
+            <p>Printed for <hi>Tho. Vere,</hi> and <hi>Will. Gilbertſon.</hi>
+            </p>
+            <pb facs="tcp:170202:2"/>
+         </div>
+      </front>
+      <body>
+         <div type="report">
+            <pb n="1" facs="tcp:170202:2"/>
+            <head>The Great Diſcovery made by his Highneſs the Lord Protector on <hi>March</hi> the 12. 1657.</head>
+            <p>
+               <seg rend="decorInit">T</seg>O ſpeak of princes is a taſk of as much difficulty as danger; Their wrath is ſaid to be like the roaring of a Lyon which makes the wilderneſſe to trem<g ref="char:EOLhyphen"/>ble; Or like the dread<g ref="char:EOLhyphen"/>full Summons in the A<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>re when the Clouds do break, and the Battel of the thunder is re<g ref="char:EOLhyphen"/>ported: Their prudence and providence is
+<pb n="2" facs="tcp:170202:3"/>
+compared to the eye of an Eagle, or to the reſtleſſe Intelligences that do move the hea<g ref="char:EOLhyphen"/>venly bodies. Their eye is like that of the ſun, over all Lands both to foreſée and to prevent dangers as ſoon as they are meant. When we thought we had no viſſible enemy but our own Ingratitude for miſprizing y<hi rend="sup">e</hi> great bleſ<g ref="char:EOLhyphen"/>ſing of Peace, which other Nations cannot obtain</p>
+            <p>His Highneſſe (whom God hath ſet over us for our Protector) and whoſe waking is our ſléep, hath diſcovered the new deſigns of the old Enemy <hi>Charles Stuart</hi> and his party who are watching all opportunities to fill the Land with blood, and to deſtroy the flouriſh<g ref="char:EOLhyphen"/>ing of the Goſpel amongſt us, which we have enjoyed in a purer way then was ever in the dayes of his Father, or any of his Predeceſ<g ref="char:EOLhyphen"/>ſors: For although men do fail in their pra<g ref="char:EOLhyphen"/>ctiſe, the Goſpell certainly was never more purely taught then is at this preſent: His Highneſſ to give unto the City a knowled<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e of what ſo happily he had diſcovered, and ſo provide a remedy to prevent the great danger that did threaten to enſue, was pleaſ'd to give order that the Lord Mayor the Aldermen, &amp; the Common-Counſell of this Citty ſhould attend upon him on <hi>Friday, March</hi> the 12.
+<pb n="3" facs="tcp:170202:3"/>
+who in obedience thereunto did make their appearance, and in ſo great a number that the like hath hardly béen before: for they al knew that they owed both their lives and Liberties to his Highneſs Protection, and it being whiſ<g ref="char:EOLhyphen"/>pered abroad that ſome dangers were on foot, they would faine underſtand from him the ſtraights into which they were like to be re<g ref="char:EOLhyphen"/>duced, and the means to provide a remedy for it.</p>
+            <p>The Lord Mayor, the Aldermen, and the Common-Councill of the Citty being come in a full number to attend his Highneſſe at <hi>White-Hall</hi> on <hi>Friday March</hi> the 12. they found there many of the Commanders and Officers of the Army, who were all admitted to his Highneſſe preſence, who in a large Spéech did repreſent unto them the great de<g ref="char:EOLhyphen"/>liverances which God hath vouchſafed to this Nation during the whole courſe and progreſs of the late warrs, from the violence of their implacable Enemies, and their combinations both publick and Domeſtick: He repreſen<g ref="char:EOLhyphen"/>ted unto them how eminently God had ownd and proſpered him in y<hi rend="sup">e</hi> great work in which he ſtood intereſted for the eſtabliſhment of Righteouſneſſe and peace, and at this pre<g ref="char:EOLhyphen"/>ſent
+<pb n="4" facs="tcp:170202:4"/>
+he could not but declare unto them the eminent danger in which both the Citty and the whole Nation was like to be involued by reaſon of the contriuements of <hi>Charls Stuart</hi> and his party, both at home and abroad, who ſecretly have uſed the utmoſt of their endea<g ref="char:EOLhyphen"/>vors to Imbroyle the Nation and this Citty (the principle place at which they aim) in a new war, which ſuddenly would appear, as ſoon as ever their Intented Invaſion ſhould take effect.</p>
+            <p>To make the truth of this diſcovery more apparrent, His Highneſſe inſiſted that he knew it to be true, and not only by Letters of his, and the Cityes adverſaryes which were intercepted, but by certain Inteligence from ſeverall other hands beyond the Seas of their procéedings, as alſo by information from the mouths of ſuch perſons, who had promiſed to Ingage themſelves to comply and act with them.</p>
+            <p>And to make this yet more manifeſt, he Informed them that the Lord of <hi>Ormond</hi> (whom by his own Party is now called the Duke of <hi>Ormond)</hi> had béen in perſon in this City for thrée wéeks together being come out
+<pb n="5" facs="tcp:170202:4"/>
+of <hi>Flanders</hi> on purpoſe to draw all unto him that poſſibly he could by incouraging and In<g ref="char:EOLhyphen"/>gaging them to forſake all other intereſts to adhere unto the Cauſe of his Maſter: His Highneſſe did alſo acquaint them th<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t he ha<g ref="char:EOLhyphen"/>ving uſed his uttermoſt indeavors to promote the Cauſe for which he came, be departed pri<g ref="char:EOLhyphen"/>vately from <hi>London</hi> on <hi>Tueſday March the ninth.</hi>
+            </p>
+            <p>But what was above all, he declared that in order to this Invaſion, <hi>Charls Stuart</hi> was waiting in <hi>Flanders</hi> having got together an Army of about Eight thouſand horſe and foot, whom he had quartred in ſeverall comodious places néer unto the Sea ſide, as <hi>Bruges, Bruſſels, Oſtend,</hi> and other places, and that withall he had contracte<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> for two and twenty ſhips, who were in readineſs to Tranſpor<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> his Army and only waited for the opportuni<g ref="char:EOLhyphen"/>ty of ſome dark ni<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ht to ſlip by the <hi>Engliſh</hi> Fléet, when the Miſt had covered the face of the Sea and in being ſhips of no great bu<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>then he repreſented that the ſhips of the En<g ref="char:EOLhyphen"/>emy had ſome advantage over our ſhips, who were of a great burthen and drawing much water, and therefore not able to ride upon the Flats.</p>
+            <p>
+               <pb n="6" facs="tcp:170202:5"/>
+He concluded that ſéeing the dangers was ſo apparent and ſo néer at hand, and that the ſafty, and the peace of the City, &amp; the whole Nation was highly concerned in it, he deſired the City to be ſenſible of it, and laid open to them how déeply it concern'd them to provide for their own ſecurity, and the ſecurity of the whole Nation.</p>
+            <p>He therefore recommended to the Lord Mayor and the Aldermen, &amp; Common-coun<g ref="char:EOLhyphen"/>cill of the City there aſſembled the ſetling of their <hi>Militia;</hi> and that it might be eſtabliſhed in the hands of faithfull and pyous men, and ſuch as were well affected to the preſent Go<g ref="char:EOLhyphen"/>vernment, and ſuch as are frée from all diſ<g ref="char:EOLhyphen"/>content, and faction to put the Citty in a po<g ref="char:EOLhyphen"/>ſture of defence, that they may be ready to ſuppreſs all Tumults. and Inſurrections de<g ref="char:EOLhyphen"/>ſigned by the Enemy againſt the peace and ſafty of the City.</p>
+            <p>This and much more to this effect His Highneſs repreſented as to the Tranſaction of the Affairs of State from the beginning of the wars unto this preſent, and ths happy Propagation of the Goſpell in theſe thrée Nations.</p>
+            <p>
+               <pb n="7" facs="tcp:170202:5"/>
+The Citizens departed with great chéer<g ref="char:EOLhyphen"/>fulneſs and ſatisfaction, and going home they might revolve with themſelves their honora<g ref="char:EOLhyphen"/>ble Atchievments they acquired at <hi>Newbury Redding<g ref="char:punc">▪</g> Grafton-houſe,</hi> and ſeverall other places when they returned with ſongs of joy in their mouths, and Laurels in their hands, &amp; make y<hi rend="sup">e</hi> ſame Adreſſes in their repreſentation to his Highneſs as the Commanders of the Army have done before them. ſhewing that amongſt the Officers and Souldiers of the Army, they for their parts have not béen alto<g ref="char:EOLhyphen"/>gether negligent in laying néer unto their hearts the great providence which God hath béen pleaſed to ſet his ſeal to the righteouſ<g ref="char:EOLhyphen"/>neſs of that cauſe wherein they have ingaged with his Highneſs, In which it hath pleaſed God to make him an eminent Inſtrument of much good to the thrée Nations in Generall, and to the City in perticular, and it hath plea<g ref="char:EOLhyphen"/>ſed God after all theſe great hazards and la<g ref="char:EOLhyphen"/>bours to call his Highneſs to the Govern<g ref="char:EOLhyphen"/>ment of this Common-wealth which as they look upon to be the work of the great God, ſo do alſo acknowledge it to be a very ſea<g ref="char:EOLhyphen"/>ſonable mercy to theſe diſtracted, and divided Nations, which ſéemed to be inclining to u<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ter confuſſon, had it not pleaſed God to raiſe
+<pb n="8" facs="tcp:170202:6"/>
+up his Spirit to undertake a work of ſo great a difffculty in which his Highneſs hath beén expoſed to ſo much Ermity even of thoſe perſons from whom he might juſtly have expected the greateſt Concurrence and aſſi<g ref="char:EOLhyphen"/>ſtance.</p>
+            <p>That they have obſerved alſo his High<g ref="char:EOLhyphen"/>neſs pyous Indeavours for the propagation of the Goſpel of Truth in the purity and the glory of it, and the Eſtabliſhment of the Spi<g ref="char:EOLhyphen"/>rituall Lib<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rtyes of all good Chriſtians, (though differing in Opinions) and his great care of ſecuring Propriety, and the Civill Rights of theſe Nations, and in preventing their probable Ruine and deſtruction, For which mercyes they muſt moſt ſincéerly con<g ref="char:EOLhyphen"/>feſs that they have infinite cauſe to bleſſe God. And therefore they cannot but in hum<g ref="char:EOLhyphen"/>ble duty repreſent unto his Highneſſe, that they are reſolv'd with the hazard of their lives and utmoſt fortunes to own, &amp; ſtand by him in the purſuance of thoſe ends for which he hath ſo fully declared, And <hi>that</hi> (by the aſſiſtance of the Almighty) They will faithfully <hi>attend</hi> their dutyes in the ſeverall places in the Ci<g ref="char:EOLhyphen"/>ty, and elſe where, for y<hi rend="sup">e</hi> defence of his High<g ref="char:EOLhyphen"/>neſſe perſon, and the Preſervation and
+<pb n="9" facs="tcp:170202:6"/>
+Peace of this Citty, And of the whole Na<g ref="char:EOLhyphen"/>tion</p>
+            <p>This indéed would be a great and Univo<g ref="char:EOLhyphen"/>call Expreſſion, they might alſo ad unto it<g ref="char:punc">▪</g> That by reaſon of the many ſecret plots and Combinations threatning further trouble and confuſion in theſe Nations by ſtrengthening and encouragment which the common Ene<g ref="char:EOLhyphen"/>mies receive by the advantage of our Inte<g ref="char:EOLhyphen"/>ſtine diſcords to promote their deſign, which if accompliſhed will be unvoydably of that cauſe and Intereſt, for which his Highneſs hath ſo often and ſo fully declared for, and in which God hath ſo eminently owned him &amp; proſpered him, that for the bleſſed effects thereof which they enjoy they have abundant cauſe to bleſſe the Almighty.</p>
+            <p>They are therefore fully reſolved to <hi>attend</hi> his Highneſſe commands in the faithfull diſ<g ref="char:EOLhyphen"/>charge of the dutyes of their places. for the defence of his perſon and the Security of the Common-wealth, In the purſuance of which great Intereſt, They will Ingage themſelvs to the utmoſt hazard of their lives againſt all Tumultuous Inſurrections that may here<g ref="char:EOLhyphen"/>after be raiſed by the Enemyes of his High<g ref="char:EOLhyphen"/>neſſe,
+<pb n="10" facs="tcp:170202:7"/>
+and the peace of the City, and the Na<g ref="char:EOLhyphen"/>tion, and that he may aſſure himſelf that the ſame preſence will attend him from on high which formerly hath apeared in his Atchiev<g ref="char:EOLhyphen"/>ments in ſo many fields for the accompliſh<g ref="char:EOLhyphen"/>ing of that great work ſo happyly begun to the glory of God, and the rejoycing of the hearts of all the people in this Citty and Na<g ref="char:EOLhyphen"/>tion.</p>
+            <p>Theſe are the honorable and pyous Reſo<g ref="char:EOLhyphen"/>lutions In which the <hi>City</hi> wil joyn with the Commanders of the Army to the mutuall preſervation of each othershappyneſſe, and the Terror of all their Enemyes whatſoe<g ref="char:EOLhyphen"/>ver,</p>
+         </div>
+         <div type="response_to_report">
+            <pb n="11" facs="tcp:170202:7"/>
+            <head>The Reſolution of the Lord Mayor, and Common-Coun<g ref="char:EOLhyphen"/>cell-men of the City of <hi>London,</hi> upon the aforeſaid diſcovery.</head>
+            <p>THe Lord Mayor of <hi>London,</hi> with the conſent of the Court of Al<g ref="char:EOLhyphen"/>dermen, and the Common-councell of the ſaid City upon their returne from his Highneſſe, taking into their ſerious conſideration the weightineſſe of the Reaſons then propoſed unto them, and withall conſidering how much their own ſafty was wrapt up in this ſerious Diſcovery, did immediately like true Patriots to their Country reſolve to act ſomething that in ſuch a Juncture of time might render them famous to Poſterity, and to that end they immedi<g ref="char:EOLhyphen"/>ately iſſued out their Orders to the Commanders of the ſeverall Regiments
+<pb n="12" facs="tcp:170202:8"/>
+in the City of <hi>London,</hi> to ſummon in a the inhabitants in their reſpective de<g ref="char:EOLunhyphen"/>viſions which either formerly have or now are in a Capacity to be liſted for the preſent ſafty of the City, the peace and quietneſſe of the whole Nation, who very cheerfully appeared and de<g ref="char:EOLhyphen"/>clared their honeſt reſolutions to main<g ref="char:EOLhyphen"/>tain the Government now eſtabliſhed, with the hazard of their lives and For<g ref="char:EOLhyphen"/>tunes againſt any Malignant party or diſcontented Faction whatſoever. And I do beleeve within a few dayes ther<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> will be as gallant an Army of truehear<g ref="char:EOLhyphen"/>ted Citizens, really to maintain what they have Verbally promiſed as <hi>London</hi> could have ſhewn this many years.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
